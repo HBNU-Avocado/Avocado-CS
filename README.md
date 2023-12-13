@@ -6,8 +6,8 @@
 <br/>
 
 ## 제보 방법
-1. 이 레포지토리의 [Issues 페이지](https://github.com/HBNU-Avocado/Avocado-CS/issues)에 템플릿에 맞춰 작성해주세요.
-2. 예시 템플릿은 아래와 같습니다. 아래 예시를 복사해서 이용해주세요.
+1. 이 레포지토리의 [Issues 페이지](https://github.com/HBNU-Avocado/Avocado-CS/issues)에 등록해놓은 템플릿에 맞춰 작성해주세요.
+2. 예시 템플릿은 아래와 같습니다.
 ```
 - 작성 일자(필수) : 2023.12.13 21:00
 - 아보카도 가입 이메일(필수) : ldy_1204@naver.com
